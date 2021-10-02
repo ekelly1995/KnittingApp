@@ -160,7 +160,7 @@
     <ImageAsset Include="Assets.xcassets\patterns_icon.imageset\patterns_icon.png">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\welcome_img.imageset\welcome.jpg">
+    <ImageAsset Include="Assets.xcassets\welcome_img.imageset\welcome1.jpg">
       <Visible>false</Visible>
     </ImageAsset>
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />

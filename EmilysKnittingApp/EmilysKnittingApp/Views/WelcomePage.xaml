@@ -28,8 +28,8 @@
         <ScrollView>
             <StackLayout>
                 <Image Grid.Row="0" Source="welcome.jpg"/>
-                <Label Grid.Row="1" Text="This is a label."/>
-                <Label Grid.Row="2" Text="This is a different label." />
+                <Label Grid.Row="1" FontSize="32" TextColor="Black" Margin="10,0,10,0" Text="Welcome to KnittingApp"/>
+                <Label Grid.Row="2" FontSize="18" TextColor="Black" Margin="10,0,10,0" Text="This is my text."/>
             </StackLayout>
         </ScrollView>
     </Grid>
